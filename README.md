@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilseec
 - 👀 I’m interested in golang and csgo
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang and node
 
 - 📫 If you can reach me, then you can reach me
 
