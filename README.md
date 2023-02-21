@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilseec
-- 👀 I’m interested in nothing?
-- 🌱 I’m currently learning rust and node
+- 👀
+- 🌱
 
 - 📫 If you can reach me, then you can reach me
 
