@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Lilseec
-- 👀
-- 🌱
-
-- 📫 If you can reach me, then you can reach me
+rust mood
 
 <!---
 Lilseec/Lilseec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
